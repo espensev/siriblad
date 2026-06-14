@@ -2,6 +2,8 @@
 
 Dette dokumentet oppsummerer innholdet i `Forslag til temaer til Sibirposten Jubileum.docx`, slik at arbeidet kan tas videre i redaksjon eller hjemme uten å gå tilbake til råutkastet først.
 
+Originalfilen er også lagret i repoet under `source-materiale/forslag-til-temaer-til-sibirposten-jubileum.docx`.
+
 ## Kort oversikt
 
 Word-dokumentet inneholder to typer innhold:
